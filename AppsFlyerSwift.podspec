@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 
-    s.name             = 'AFSwiftFramework'
+    s.name             = 'AppsFlyerSwift'
     s.version          = '1.0.0'
     s.summary          = 'Swift framework test'
 
